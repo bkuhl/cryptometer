@@ -4,6 +4,12 @@ A Rainmeter extension for monitoring Cryptocurrencies.
 
 ![Widget Preview](https://image.ibb.co/fU43NQ/cryptometer_preview.png)
 
+### Features:
+
+ * Tracks the top 5 Cryptocurrencies out of the box
+ * Customizable with whatever currencies you'd like to track (see Adding/Removing Cryptocurrencies below)
+ * Updates data every 15 minutes
+
 # Requirements
  * [Rainmeter 4.1+](https://www.rainmeter.net)
  * [Win10Widgets](http://win10widgets.com) - inherits styling from this theme
