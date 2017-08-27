@@ -9,6 +9,7 @@ A Rainmeter extension for monitoring Cryptocurrencies.
  * Tracks the top 5 Cryptocurrencies out of the box
  * Customizable with whatever currencies you'd like to track (see Managing Cryptocurrencies below)
  * Updates data every 15 minutes
+ * Click the symbol to view graphs, charts and more
 
 # Requirements
  * [Rainmeter 4.1+](https://www.rainmeter.net)
